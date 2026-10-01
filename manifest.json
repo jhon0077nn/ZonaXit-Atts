@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "core_version":  "1.2.1",
+    "core_version":  "1.2.2",
     "changelog":  "Atualizacao do core unificado e arquitetura de builds por marca.",
     "generated_at_utc":  "2026-10-01T19:42:29.2248881Z",
     "builds":  {
