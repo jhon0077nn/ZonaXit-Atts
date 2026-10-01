@@ -5,19 +5,19 @@
     "generated_at_utc":  "2026-10-01T19:42:29.2248881Z",
     "builds":  {
                    "releaser1":  {
-                                     "version":  "1.2.1",
+                                     "version":  "1.2.2",
                                      "name":  "Stellar",
                                      "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/releases/latest/download/Releaser1.exe",
                                      "sha256":  "3ae79c5369850c829b678ce00da66d7f035e4273ff20f12bff77f0f9d32d48ac"
                                  },
                    "releaser2":  {
-                                     "version":  "1.2.1",
+                                     "version":  "1.2.2",
                                      "name":  "BC CORP",
                                      "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/releases/latest/download/Releaser2.exe",
                                      "sha256":  "d541c9311a5e80512615389fca0d88bfadc0c2ac63779cbbbbaedc01d39c82b9"
                                  },
                    "znx":  {
-                               "version":  "1.2.1",
+                               "version":  "1.2.2",
                                "name":  "ZONA XIT",
                                "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/releases/latest/download/Externo.exe",
                                "sha256":  "f07a69d22c0bea98e86662c93d9ea877497bab81478c7276884d3a7d92d47548"
