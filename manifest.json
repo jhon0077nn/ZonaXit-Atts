@@ -1,20 +1,20 @@
 {
-    "schema":  1,
-    "core_version":  "1.2.2",
-    "changelog":  "Atualizacao do core unificado e arquitetura de builds por marca.",
-    "generated_at_utc":  "2026-10-01T19:42:29.2248881Z",
-    "builds":  {
-                   "releaser2":  {
-                                     "version":  "1.2.2",
-                                     "name":  "BC CORP",
-                                     "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/releases/Releaser1.exe",
-                                     "sha256":  "d541c9311a5e80512615389fca0d88bfadc0c2ac63779cbbbbaedc01d39c82b9"
-                                 },
-                   "znx":  {
-                               "version":  "1.2.2",
-                               "name":  "ZONA XIT",
-                               "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
-                               "sha256":  "f07a69d22c0bea98e86662c93d9ea877497bab81478c7276884d3a7d92d47548"
-                           }
-               }
+  "schema": 1,
+  "core_version": "1.2.2",
+  "changelog": "Atualizacao do core unificado e arquitetura de builds por marca.",
+  "generated_at_utc": "2026-10-01T20:50:00Z",
+  "builds": {
+    "releaser2": {
+      "version": "1.2.2",
+      "name": "BC CORP",
+      "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/releases/Releaser1.exe",
+      "sha256": "d541c9311a5e80512615389fca0d88bfadc0c2ac63779cbbbbaedc01d39c82b9"
+    },
+    "znx": {
+      "version": "1.2.2",
+      "name": "ZONA XIT",
+      "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
+      "sha256": "8ac2236edcaff75ed027f232e5b2f91a3e406540c34b88f0f85de5ee65e94d9c"
+    }
+  }
 }
