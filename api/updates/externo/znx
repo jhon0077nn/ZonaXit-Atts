@@ -3,9 +3,9 @@
   "product": "externo",
   "brand_id": "znx",
   "identity_sha256": "d3d7fb836880aa7dc6664ed9b88e3a5257f9bc159acbe9e9ea76980f88646fbb",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
-  "sha256": "21ff9b3e6e3eea1eed15514bf87a2fe4c1781c738b099aae01d97fafcbd63125",
-  "size": 2700622,
-  "changelog": "ESP some ao morrer, nomes com simbolos no ESP e atualizador corrigido."
+  "sha256": "325c94af8ccbed4f61ff66e49533714bbac89954330f1bd5904af08e59086748",
+  "size": 2701134,
+  "changelog": "Corrigido o botao + do Reviver Rapido que aparecia com o amigo longe."
 }

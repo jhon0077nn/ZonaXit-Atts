@@ -2,7 +2,7 @@
   "schema": 1,
   "core_version": "1.2.2",
   "changelog": "Atualizacao do core unificado e arquitetura de builds por marca.",
-  "generated_at_utc": "2026-10-01T20:50:00Z",
+  "generated_at_utc": "2026-10-28T21:31:37Z",
   "builds": {
     "releaser2": {
       "version": "1.2.2",
@@ -10,11 +10,11 @@
       "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/releases/Releaser1.exe",
       "sha256": "d541c9311a5e80512615389fca0d88bfadc0c2ac63779cbbbbaedc01d39c82b9"
     },
-"znx": {
-  "version": "1.2.6",
-  "name": "ZONA XIT",
-  "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
-  "sha256": "21ff9b3e6e3eea1eed15514bf87a2fe4c1781c738b099aae01d97fafcbd63125"
-}
+    "znx": {
+      "version": "1.2.7",
+      "name": "ZONA XIT",
+      "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
+      "sha256": "325c94af8ccbed4f61ff66e49533714bbac89954330f1bd5904af08e59086748"
+    }
   }
 }
