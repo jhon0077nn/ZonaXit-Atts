@@ -1,11 +1,11 @@
-{
-  "schema": 2,
-  "product": "externo",
-  "brand_id": "znx",
-  "identity_sha256": "d3d7fb836880aa7dc6664ed9b88e3a5257f9bc159acbe9e9ea76980f88646fbb",
-  "version": "1.2.7",
-  "url": "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
-  "sha256": "325c94af8ccbed4f61ff66e49533714bbac89954330f1bd5904af08e59086748",
-  "size": 2701134,
-  "changelog": "Corrigido o botao + do Reviver Rapido que aparecia com o amigo longe."
+﻿{
+    "schema":  2,
+    "product":  "externo",
+    "brand_id":  "znx",
+    "identity_sha256":  "d3d7fb836880aa7dc6664ed9b88e3a5257f9bc159acbe9e9ea76980f88646fbb",
+    "version":  "1.2.8",
+    "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/Externo.exe",
+    "sha256":  "81ac8af7e4c0203f3dcc9590ad3f875efbd5a2d501ef2e50710d80b2ddf150ff",
+    "size":  2622976,
+    "changelog":  "Cluster sync adicionado ao bone swap: aplica headshot em inimigos visualmente sobrepostos na tela."
 }
