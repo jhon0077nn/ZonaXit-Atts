@@ -1,0 +1,11 @@
+{
+    "schema":  2,
+    "product":  "externo",
+    "brand_id":  "bc",
+    "identity_sha256":  "d3d7fb836880aa7dc6664ed9b88e3a5257f9bc159acbe9e9ea76980f88646fbb",
+    "version":  "1.0.0",
+    "url":  "https://github.com/jhon0077nn/ZonaXit-Atts/raw/refs/heads/main/BCCorp.exe",
+    "sha256":  "95fba7352fa46b40bfcb249bdb07eb492cfb26c0f2ccfe27c82b6995b25e5b9b",
+    "size":  2671438,
+    "changelog":  "Versão inicial BC CORP."
+}
